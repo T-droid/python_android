@@ -1,0 +1,1 @@
+This repository is dedicated to creating android apps using the python flet module and kivy module
